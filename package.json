@@ -1,0 +1,24 @@
+{
+  "name": "practice-e2e-testing-cypress",
+  "version": "1.0.0",
+  "description": "Repository with all resources for the practice of end-to-end (E2E) testing with the framework Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "$(npm bin)/cypress open",
+    "test": "$(npm bin)/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassioss/practice-e2e-testing-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassioss/practice-e2e-testing-cypress/issues"
+  },
+  "homepage": "https://github.com/cassioss/practice-e2e-testing-cypress#readme",
+  "devDependencies": {
+    "cypress": "4.5.0"
+  }
+}
