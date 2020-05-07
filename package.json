@@ -14,9 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cassioss/practice-e2e-testing-cypress/issues"
-  },
+
   "homepage": "https://github.com/cassioss/practice-e2e-testing-cypress#readme",
   "devDependencies": {
     "cypress": "4.5.0"
